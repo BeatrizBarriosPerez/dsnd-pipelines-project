@@ -8,7 +8,7 @@ Instructions for how to get a copy of the project running on your local machine.
 
 ### Dependencies
 
-This project requires Python 3.8 or higher and the following Python packages:
+This project requires Python 3.10 or higher and the following Python packages:
 
 ```
 pandas>=1.3.0
